@@ -17,14 +17,14 @@ The project bridges education and fitness, serving as both a teaching tool for _
 
 - **Frontend**
 
-  - Framework ---> Angular return
-  - Styling ---> Bootstrap return
-  - 3D Integration ---> model-viewer return
-  - Animations ---> GSAP return
+  - Framework ---> Angular
+  - Styling ---> Bootstrap
+  - 3D Integration ---> model-viewer
+  - Animations ---> GSAP
 
 - **Backend**
-  - Runtime ---> Node.js return
-  - Framework ---> Express.js return
+  - Runtime ---> Node.js
+  - Framework ---> Express.js
   - Database ---> MongoDB (Mongoose ODM)
   - API ---> RESTful API endpoints serving muscles & exercises data
   - Authentication ---> JWT

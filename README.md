@@ -1,6 +1,4 @@
-# PeakFitness
-
-### graduation project
+# PeakFitness ### graduation project
 
 #### Overview
 
@@ -10,24 +8,23 @@ The project bridges education and fitness, serving as both a teaching tool for _
 
 #### Features
 
-> **3D Human Muscular Model** – Fully interactive and clickable.
-> **Educational Insights** – Displays info about each muscle.
-> **Exercise Videos** – Demonstrates how to train the selected muscle.
-> **Modern UI** – Clean and minimal design with focus on usability.
+- **3D Human Muscular Model** – Fully interactive and clickable. return
+- **Educational Insights** – Displays info about each muscle. return
+- **Exercise Videos** – Demonstrates how to train the selected muscle. return
+- **Modern UI** – Clean and minimal design with focus on usability. return
 
 ### Tech Stack
 
-> **Frontend**
->
-> > Framework ---> Angular
-> > Styling ---> Bootstrap
-> > 3D Integration ---> <model-viewer>
-> > Animations ---> GSAP
+- **Frontend**
 
-> **Backend**
->
-> > Runtime ---> Node.js
-> > Framework ---> Express.js
-> > Database ---> MongoDB (Mongoose ODM)
-> > API ---> RESTful API endpoints serving muscles & exercises data
-> > Authentication ---> JWT
+  - Framework ---> Angular return
+  - Styling ---> Bootstrap return
+  - 3D Integration ---> model-viewer return
+  - Animations ---> GSAP return
+
+- **Backend**
+  - Runtime ---> Node.js return
+  - Framework ---> Express.js return
+  - Database ---> MongoDB (Mongoose ODM)
+  - API ---> RESTful API endpoints serving muscles & exercises data
+  - Authentication ---> JWT
